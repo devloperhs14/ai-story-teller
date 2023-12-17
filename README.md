@@ -8,7 +8,8 @@ Steps to run:
 4. Create a `.env` file and follow 1st section of blog.
 5. Again run   `streamlit run app.py`
 
-Done!
+Follow video after this:
+https://youtu.be/K5l0rpg-j58
 
 
 
