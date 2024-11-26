@@ -40,6 +40,8 @@ streamlit run app.py
 ```
 Once ran open the given link to test it!
 
+> Note for the 1st time the app will load all the model files, so may take a little bit of time. So kindly wait 🙏 
+
 ---
 
 # Short Video On Project
